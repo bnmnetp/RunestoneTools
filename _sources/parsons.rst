@@ -1,5 +1,7 @@
+Parsons Problems
+----------------
 
-And finally here is a way of giving your students some simple programming problems where the code is already there for them but not indented or in the correct order.  Use drag-and-drop to get everthing right.
+
 
 **Check your understanding**
 
