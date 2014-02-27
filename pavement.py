@@ -10,7 +10,7 @@ from sphinxcontrib import paverutils
 sys.path.append(os.getcwd())
 
 ######## CHANGE THIS ##########
-project_name = 'template'
+project_name = 'LearningAtScale'
 ###############################
 
 master_url = 'http://interactivepython.org'

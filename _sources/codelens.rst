@@ -1,0 +1,14 @@
+The CodeLens Tool
+-----------------
+
+
+
+.. codelens:: secondexample
+
+    fruit = ["apple","orange","banana","cherry"]
+    numlist = [6,7]
+    newlist = fruit + numlist
+    zeros = [0] * 4
+
+    zeros[1] = fruit
+    zeros[1][2] = numlist

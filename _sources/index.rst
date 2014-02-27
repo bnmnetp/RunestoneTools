@@ -1,7 +1,7 @@
 
-=====================
-This Is A New Project
-=====================
+===========================
+Runestone Interactive Tools
+===========================
 
 .. Here is were you specify the content and order of your new book.
 
@@ -14,28 +14,24 @@ This Is A New Project
 .. Sources can also be included from subfolders of this directory.
    (e.g. "DataStructures/queues.rst").
 
-SECTION 1: A Random Section
-:::::::::::::::::::::::::::
+Introduction
+::::::::::::
 
+.. toctree::
+   :maxdepth: 2
 
-
-.. activecode:: example1
-
-   print 'hello world!'
+   intro.rst
+   activecode.rst
+   codelens.rst
+   video.rst
+   mchoice.rst
+   parsons.rst
+   disqus.rst
+   
+   stats.rst
+   editing.rst
    
    
-   
-Turtles
--------
-
-.. activecode:: example2
-
-   import turtle
-   t = turtle.Turtle()
-   
-   for i in range(4):
-       t.forward(100)
-       t.right(90)
 
 
-That is all
+
