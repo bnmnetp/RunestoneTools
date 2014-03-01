@@ -4,8 +4,9 @@ Introduction
 History
 ~~~~~~~
 
-* No more paper
-* remix and reuse
+.. image:: _static/pycontext2.jpg
+
+.. image:: _static/PythonDScover.jpg
 
 
 A Demo in Two Parts
