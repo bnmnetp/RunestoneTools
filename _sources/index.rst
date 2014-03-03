@@ -27,9 +27,13 @@ Introduction
    mchoice.rst
    parsons.rst
    disqus.rst
+   thanks.rst
+
    
-   stats.rst
-   editing.rst
+..   stats.rst
+..   editing.rst
+
+
    
    
 

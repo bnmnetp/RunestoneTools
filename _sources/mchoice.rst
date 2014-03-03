@@ -55,7 +55,7 @@ Fill in the Blank
 CodeLens Questions
 ~~~~~~~~~~~~~~~~~~
 
-.. reveal:: rev3
+.. reveal:: rev4
 
     .. codelens:: codelens_question
         :question: What is the value of tot after the line with the red arrow executes?
@@ -73,3 +73,4 @@ CodeLens Questions
 Feedback
 ~~~~~~~~
 
+A student will see how they answered the question, and a breakdown of how all students in the class answered the question. `Here <http://interactivepython.org/runestone/static/luther150c_fall13/PythonTurtle/helloturtle.html#hello-turtles>`_.  As an instructor you can see how each student answered the question, and how many tries it took.
